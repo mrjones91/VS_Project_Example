@@ -1,0 +1,15 @@
+C:\Users\DJ\Documents\GitHub\VS_Project_Example\VS_Project_Example\VS_Project_Example\bin\Debug\net7.0\VS_Project_Example.exe
+C:\Users\DJ\Documents\GitHub\VS_Project_Example\VS_Project_Example\VS_Project_Example\bin\Debug\net7.0\VS_Project_Example.deps.json
+C:\Users\DJ\Documents\GitHub\VS_Project_Example\VS_Project_Example\VS_Project_Example\bin\Debug\net7.0\VS_Project_Example.runtimeconfig.json
+C:\Users\DJ\Documents\GitHub\VS_Project_Example\VS_Project_Example\VS_Project_Example\bin\Debug\net7.0\VS_Project_Example.dll
+C:\Users\DJ\Documents\GitHub\VS_Project_Example\VS_Project_Example\VS_Project_Example\bin\Debug\net7.0\VS_Project_Example.pdb
+C:\Users\DJ\Documents\GitHub\VS_Project_Example\VS_Project_Example\VS_Project_Example\obj\Debug\net7.0\VS_Project_Example.csproj.AssemblyReference.cache
+C:\Users\DJ\Documents\GitHub\VS_Project_Example\VS_Project_Example\VS_Project_Example\obj\Debug\net7.0\VS_Project_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DJ\Documents\GitHub\VS_Project_Example\VS_Project_Example\VS_Project_Example\obj\Debug\net7.0\VS_Project_Example.AssemblyInfoInputs.cache
+C:\Users\DJ\Documents\GitHub\VS_Project_Example\VS_Project_Example\VS_Project_Example\obj\Debug\net7.0\VS_Project_Example.AssemblyInfo.cs
+C:\Users\DJ\Documents\GitHub\VS_Project_Example\VS_Project_Example\VS_Project_Example\obj\Debug\net7.0\VS_Project_Example.csproj.CoreCompileInputs.cache
+C:\Users\DJ\Documents\GitHub\VS_Project_Example\VS_Project_Example\VS_Project_Example\obj\Debug\net7.0\VS_Project_Example.dll
+C:\Users\DJ\Documents\GitHub\VS_Project_Example\VS_Project_Example\VS_Project_Example\obj\Debug\net7.0\refint\VS_Project_Example.dll
+C:\Users\DJ\Documents\GitHub\VS_Project_Example\VS_Project_Example\VS_Project_Example\obj\Debug\net7.0\VS_Project_Example.pdb
+C:\Users\DJ\Documents\GitHub\VS_Project_Example\VS_Project_Example\VS_Project_Example\obj\Debug\net7.0\VS_Project_Example.genruntimeconfig.cache
+C:\Users\DJ\Documents\GitHub\VS_Project_Example\VS_Project_Example\VS_Project_Example\obj\Debug\net7.0\ref\VS_Project_Example.dll
